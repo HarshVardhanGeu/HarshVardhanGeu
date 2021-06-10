@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshVardhanGeu
 - 👀 I’m interested in DS & Algorithms 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me recruit.harshvardhan@gmail.com
 
 <!---
